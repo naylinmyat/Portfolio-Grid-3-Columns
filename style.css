@@ -418,7 +418,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
         font-size: 14px;
     }
     .portfolio div{
-        height: 340px;
+        height: 250px;
     }
 }
 @media (max-width: 700px){
@@ -426,7 +426,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
         font-size: 12px;
     }
     .portfolio div{
-        height: 300px;
+        height: 230px;
     }
 }
 
